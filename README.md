@@ -33,8 +33,6 @@
 ```md
 Project structure:-
 my_project/
-├── docs/
-│   └── readme.md
 ├── resources/
 │   ├── __init__.py
 │   ├── dev/
@@ -82,6 +80,7 @@ my_project/
 │   ├── test/
 │   │    ├── scratch_pad.py.py
 │   │    └── generate_csv_data.py
+│── readme.md
 ```
 
 ### 7. Schema, Tables and Data
