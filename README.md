@@ -25,11 +25,11 @@
 3. The S3 Boto3 SDK has been used to connect with Amazon S3.
 4. Data is Loaded to the Data Mart for further processing by the Reporting tool.
 
-### 6. Project Architecture
+### 5. Project Architecture
   
 ![Pasted image 20231217185040](https://github.com/GaneshHonrao/DE-Project-ETL-Data-Pipeline-for-Retail-Industry/assets/144705832/a197ad7d-19b8-4498-9129-344b94ff1741)
 
-### 5. Project Structure
+### 6. Project Structure
 ```md
 Project structure:-
 my_project/
